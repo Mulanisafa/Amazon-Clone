@@ -36,7 +36,8 @@ This project is an Amazon Clone where I recreated the home page of Amazon.com to
 
 ## Screenshots
 
-![Header Section](Images/header-section.png)
+![Header Section](Images/![header-section])
+)
 *Header Section*
 
 ![Shopping Section](Images/shopping.png)
